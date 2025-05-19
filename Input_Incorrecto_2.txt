@@ -1,0 +1,4 @@
+para  cantar desde la hasta la hacer {
+  imprimir("lalala");
+  salir;
+}
