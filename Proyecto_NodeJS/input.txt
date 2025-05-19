@@ -1,0 +1,4 @@
+para  contador desde 1 hasta 5 hacer {
+  imprimir("Sos groso");
+  salir;
+}
