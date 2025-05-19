@@ -1,0 +1,4 @@
+para  leer desde a hasta z hacer {
+  imprimir("el alfabeto");
+  salir;
+}
