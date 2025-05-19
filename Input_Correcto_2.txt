@@ -1,0 +1,4 @@
+para  Variar desde 1 hasta 6 hacer {
+  imprimir("Contando");
+  salir;
+}
